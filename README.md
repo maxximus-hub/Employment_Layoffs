@@ -77,7 +77,7 @@ The results of this analysis are as follows:
 
 ### Limitations
 
-I had to remove rows where both the total laid off and percentage laid off columns were NULL. If both columns have null rows in common, we cannot determine how many were laid off, or if they had layoffs at all.
+I had to remove rows where both the `total_laid_off` and `percentage_laid_off` columns were NULL. If both columns have null rows in common, we cannot determine how many were laid off, or if they had layoffs at all.
 
 
    
